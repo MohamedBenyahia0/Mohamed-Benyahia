@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently looking for a research internship in AI, 3D Deep learning or computer vision,or <br>signal processing starting in April 2025.
+
 
 
 ## 🌐 Socials:
